@@ -50,10 +50,10 @@ Write this to help myself in Logic circuit design.
 
 Introuction, document, videos...
 
-https://www.instructables.com/id/Android-Phone-Control-RGB-Strip/
+https://www.youtube.com/user/dan59314/videos
 
 
-[![Demo Image](https://github.com/dan59314/Bool-Algebra-Simpify/Demo01.jpg)](https://youtu.be/VswosnMSOmA?t=0s "Motion Detection") 
+[![Demo Image](https://github.com/dan59314/Bool-Algebra-Simpify/Demo01.jpg)](https://www.youtube.com/user/dan59314/videos?t=0s "Motion Detection") 
 		
 
 ------------------------------------------------------------------------------------      
