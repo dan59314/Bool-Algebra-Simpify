@@ -50,10 +50,10 @@ Write this to help myself in Logic circuit design.
 
 Introuction, document, videos...
 
-https://www.youtube.com/user/dan59314/videos
 
 
-[![Demo Image](https://github.com/dan59314/Bool-Algebra-Simpify/Demo01.jpg)](https://www.youtube.com/user/dan59314/videos?t=0s "Motion Detection") 
+
+[![Demo Image](https://github.com/dan59314/Bool-Algebra-Simpify/blob/master/Demo01.JPG)](https://www.youtube.com/user/dan59314/videos?t=0s "RasV") 
 		
 
 ------------------------------------------------------------------------------------      
